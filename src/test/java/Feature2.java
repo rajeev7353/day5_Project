@@ -5,5 +5,6 @@ public class Feature2 {
 
         System.out.println("Working  more on feature 2");
         System.out.println("Working more and more on feature 2");
+        System.out.println("Adding line 3 to see the changes ");
     }
 }
